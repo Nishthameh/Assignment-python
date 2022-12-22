@@ -1,0 +1,5 @@
+a=input("please enter your name")
+b=input("enter your sid")
+c=input("enter your department ")
+d=input("enter your cgpa")
+print("Hey,",a,"here!"," MY SID is",b,".  I am from", c ," department and my cgpa is",d)
